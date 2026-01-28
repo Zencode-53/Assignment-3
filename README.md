@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Python Basics Practice – Factorial & Math Functions</title>
 </head>
 <body>
 
